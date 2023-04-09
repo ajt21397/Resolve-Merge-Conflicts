@@ -1,5 +1,7 @@
-<<<<<<< my-resume
-=======
->>>>>>> main
 
 test test
+=======
+# References
+
+* octocat 1 😈
+
